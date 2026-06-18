@@ -31,4 +31,9 @@ Python (pandas), Tableau
 
 ## Dashboards
 - [Station & Time Overview](https://public.tableau.com/views/Book1_17818217927350/StationTimeOverviewVis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) — delay heatmap and station rankings
-- [Routes & Trends](https://public.tableau.com/views/Book1_17818217927350/RoutesTrendsVis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) — weekly delay trend and busiest routes
+- [Routes & Trends](https://public.tableau.com/views/Book1_17818217927350/RoutesTrendsVis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) — weekly delay trend and busiest 
+routes
+
+
+
+Nkemjika Onyekwere | Junior Data Analyst | Open to internships and junior roles
